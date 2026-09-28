@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcwuQ2HXk1E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tothmartin\\Desktop\\csopp1\\console\\sportoloapi\\sportoloapi\\sportoloapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tothmartin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\tothmartin\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\tothmartin\\.nuget\\packages\\mysqlconnector\\2.6.2\\mysqlconnector.2.6.2.nupkg.sha512",
+    "C:\\Users\\tothmartin\\.nuget\\packages\\scalar.aspnetcore\\2.17.10\\scalar.aspnetcore.2.17.10.nupkg.sha512"
+  ],
+  "logs": []
+}
